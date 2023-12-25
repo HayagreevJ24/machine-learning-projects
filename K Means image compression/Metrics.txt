@@ -1,0 +1,3 @@
+Peak signal-to-noise ratio: 7.0948755508266625
+Mean squared error: 12693.833740818263
+Compression ratio: 16384.0
